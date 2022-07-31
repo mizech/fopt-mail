@@ -5,3 +5,5 @@ Aufgabe zu Java EE Servlets: Personen können sich über einen Browser in eine M
 
 Implementierung der Anwendung durch Erstellung von drei Servlets: Anmelden, Anzeigen der angemeldeten Benutzer, Abmelden.
 
+Zugriff auf gemeinsame Daten. Deshalb Verwendung von globalen Daten mit entsprechender Synchronisation.
+
