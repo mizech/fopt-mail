@@ -1,5 +1,5 @@
 ## Hochschule Trier
-### Modul Fortgeschrittene Programmiertechniken (FOPT)
+### Modul [Fortgeschrittene Programmiertechniken](https://www.hochschule-trier.de/informatik/fernstudium/module/a-h/fopt) (FOPT)
 
 Aufgabe zu Java EE Servlets: Personen können sich über einen Browser in eine Mailing-Liste eintragen. Personen können sich wieder abmelden. Dabei ist es nicht möglich andere Personen anzumelden, sondern nur sich selbst. Sicherstellen der Autorisierung über Passworteingabe.
 
