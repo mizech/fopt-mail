@@ -16,6 +16,7 @@ Klasse von HttpServlet ableiten. Die Methoden doGet und doPost überschreiben. B
 Mit der Annotation @WebServlet("/some-title" wird festgelegt, wie das Servlet von außen erreichbar ist.
 
 Context == Contextual Information
+
 Anwendungsglobale Daten, für eine **spezifische** Web-Anwendung.
 
 
